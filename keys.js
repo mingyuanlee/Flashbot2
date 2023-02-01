@@ -1,0 +1,2 @@
+const key = 'e89f53a8377d719085e598db1ea73abc35cdd4c5f9f2d982624318248c13442c'
+export default key

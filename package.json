@@ -1,0 +1,16 @@
+{
+  "name": "flashbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flashbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "ethers": "^5.7.2"
+  }
+}
